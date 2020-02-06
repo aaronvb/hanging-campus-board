@@ -1,5 +1,5 @@
 # Hanging Campus Board
-Contains Fusion 360 and SketchUp(untested) project for my "hanging" 9-rung campus board.
+Contains Fusion 360 and SketchUp(untested) projects for my "hanging" 9-rung sit-start campus board.
 
 The campus board has two mounts on each side that allow it to connect to a wall or wood beam. I suggest using a 12" sling and two carabiners to achieve the 15-20 degree overhang.
 
