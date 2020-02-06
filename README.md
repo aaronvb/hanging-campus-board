@@ -9,4 +9,12 @@ For the board I used 3/4" untreated plywood, and the rest are 2x4.
 
 ## Images
 
+![Wireframe](https://raw.githubusercontent.com/aaronvb/hanging-campus-board/master/render_wire.jpg)
+
+![Render](https://github.com/aaronvb/hanging-campus-board/blob/master/render.jpg)
+
+![Photo](https://github.com/aaronvb/hanging-campus-board/blob/master/final.jpeg)
+
 ## Dimensions
+
+![Dimensions](https://github.com/aaronvb/hanging-campus-board/blob/master/measurements.png)
