@@ -18,3 +18,7 @@ For the board I used 3/4" untreated plywood, and the rest are 2x4.
 ## Dimensions
 
 ![Dimensions](https://github.com/aaronvb/hanging-campus-board/blob/master/measurements.png)
+
+## Modifying the board
+
+Beacuse I'm using variables and functions to determine the measurements, you should be able to adjust values such as rung count and the model will resize itself accordingly.
